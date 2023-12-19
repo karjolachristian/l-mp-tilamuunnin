@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#tulos {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.virhe {
+    color: red;
+    font-weight: bold;
+}
+
+#muunna {
+    margin-top: 17px;
+    font-size: xx-large;
+}
